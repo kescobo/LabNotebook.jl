@@ -1,0 +1,4 @@
+using LabNotebook
+using MicroLogging
+
+@info "it works!"

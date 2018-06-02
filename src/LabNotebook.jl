@@ -1,5 +1,6 @@
 module LabNotebook
 
-# package code goes here
+include("setup.jl")
+include("maintenance.jl")
 
 end # module
